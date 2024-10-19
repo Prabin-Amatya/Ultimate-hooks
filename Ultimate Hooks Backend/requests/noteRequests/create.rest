@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/note
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3MTM0YzZjZDgwZjg2N2Q0OGQ3OWIxMiIsInVzZXJuYW1lIjoiUHJhYmluIiwiaWF0IjoxNzI5MzMyMDQ3LCJleHAiOjE3MjkzMzU2NDd9.tAEcQ_LooZgS-_dKbsxYQkSrCBv_gRtx6_MTG9-A3Fk
+
+{
+    "content": "second content"
+}
